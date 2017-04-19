@@ -1,4 +1,7 @@
-# test coverage for  [gifsicle (v3.0.4)](https://github.com/imagemin/gifsicle-bin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gifsicle.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gifsicle) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gifsicle.svg)](https://travis-ci.org/npmtest/node-npmtest-gifsicle)
+# npmtest-gifsicle
+
+#### test coverage for  [gifsicle (v3.0.4)](https://github.com/imagemin/gifsicle-bin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gifsicle.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gifsicle) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gifsicle.svg)](https://travis-ci.org/npmtest/node-npmtest-gifsicle)
+
 #### gifsicle wrapper that makes it seamlessly available as a local dependency
 
 [![NPM](https://nodei.co/npm/gifsicle.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gifsicle)
