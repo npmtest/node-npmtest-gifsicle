@@ -1,6 +1,6 @@
 # npmtest-gifsicle
 
-#### test coverage for  [gifsicle (v3.0.4)](https://github.com/imagemin/gifsicle-bin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gifsicle.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gifsicle) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gifsicle.svg)](https://travis-ci.org/npmtest/node-npmtest-gifsicle)
+#### basic test coverage for  [gifsicle (v3.0.4)](https://github.com/imagemin/gifsicle-bin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gifsicle.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gifsicle) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gifsicle.svg)](https://travis-ci.org/npmtest/node-npmtest-gifsicle)
 
 #### gifsicle wrapper that makes it seamlessly available as a local dependency
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gifsicle/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gifsicle/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gifsicle/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gifsicle/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gifsicle/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gifsicle/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gifsicle/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gifsicle/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gifsicle/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gifsicle/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gifsicle/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gifsicle/build/coverage.html/index.html)
 
